@@ -1,4 +1,4 @@
-## Xadara - Your multi purpose APi 
+## Xadara - Your multi-purpose APi 
 
 [![Discord](https://img.shields.io/discord/823720615965622323.svg?style=for-the-badge)](https://discord.gg/UDNcTrBagN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vkxni)
